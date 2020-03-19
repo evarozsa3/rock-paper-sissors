@@ -1,0 +1,8 @@
+.empty-text{
+  color: white;
+}
+
+.photo{
+border: solid 2px black;
+box-shadow: 2px 2px 5px blue;
+}
